@@ -21,7 +21,7 @@ To use this website most effectively you would navigate to the sections describi
 
 ![alt text](assets/images/HoriSEOnContent.png)
 
-Link to deployed application:
+Link to deployed application: https://etowww.github.io/Module-Challenge-One/
 
 
 ## Credits
